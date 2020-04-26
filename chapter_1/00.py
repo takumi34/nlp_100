@@ -1,0 +1,2 @@
+print('stressed'[::-1])
+
