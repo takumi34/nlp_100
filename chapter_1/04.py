@@ -8,4 +8,4 @@ for i in range(len(b)):
         l.append([b[i][0], i + 1])
     else:
         l.append([b[i][0:2], i + 1])
-print(l)
+print(dict(l))
